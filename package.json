@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ikerismak/code_challenge/issues"
   },
-  "homepage": "https://github.com/ikerismak/code_challenge#readme"
+  "homepage": "https://github.com/ikerismak/code_challenge#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
 }
